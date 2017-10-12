@@ -1,0 +1,4 @@
+[
+	{ "caption": "-" },
+	{ "command": "localsync", "caption": "Sync to Local Folder", "keys": ["ctrl+shift+m"] }
+]
