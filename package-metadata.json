@@ -1,0 +1,1 @@
+{"dependencies": [], "sublime_text": ">=3000", "version": "0.2.0", "description": "Map a local folder to another local folder to easily synchronize the files between them", "platforms": ["osx", "linux"]}
